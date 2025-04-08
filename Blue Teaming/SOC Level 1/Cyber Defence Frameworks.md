@@ -16,6 +16,4 @@ Link: (https://tryhackme.com/path/outline/soclevel1)
 
 
 ## Skills Gained:
-- Web Application Security
-- Vulnerability Testing
-- OWASP Top 10 Familiarity
+
